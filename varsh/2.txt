@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 Inside main 
 
 trying few stuff
+
+<<<<<<< HEAD
+hi from 1st branc
+
+
+
+this is 2nd branch
+>>>>>>> 2
+>>>>>>> 1
