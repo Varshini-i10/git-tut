@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hi from 1st branc
 
+=======
+
+this is 2nd branch
+>>>>>>> 2
